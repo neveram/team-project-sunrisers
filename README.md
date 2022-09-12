@@ -17,7 +17,7 @@ Retrieve Flight arrivals and departures and Gate assignments - based on time dur
 Implement a Random Gate assignment for Arriving and Departing flights - designed to prevent conflicting assignments - allow for an hour for each flight to be at the gate (for arrivals and for departures)
 
 Airport employees :
-
+//check
 Enable or disable one or more gates for maintenance
 Assign Baggage Carousel number to Arriving flights - the system should prevent conflicting assignments
 Baggage Claim information will be displayed in multiple monitors in the Arrival area
