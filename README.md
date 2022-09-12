@@ -31,3 +31,6 @@ Assume Gates are labeled as A1-A32, B1-B32 and C1-C32
 Deploy API to AWS in an Auto Scaled EC2 Cluster with Load Balancer (or another cloud provider)
 Develop a Web or mobile UI that will make use of the APIs
 Create your own database with mock data - use SFO or SJC as an example airport for your data
+
+Sprint Task sheet:
+https://docs.google.com/spreadsheets/d/1xVN1TYFBGojNXxERLfRykjC6AGKlkUP404rh5YZaU9U/edit#gid=0
