@@ -34,3 +34,128 @@ Create your own database with mock data - use SFO or SJC as an example airport f
 
 Sprint Task sheet:
 https://docs.google.com/spreadsheets/d/1xVN1TYFBGojNXxERLfRykjC6AGKlkUP404rh5YZaU9U/edit#gid=0
+
+# Sunrisers
+
+Team Members:
+
+- Vikas Tadepu
+- Thanuj Kumar Janugani
+- Varun Raj Badri
+- Jatin Lingala (016699124)
+
+### <a href="https://github.com/gopinathsjsu/team-project-sunrisers">Github Repo</a>
+
+## Responsibilities
+
+<b>Front End, Back End</b>:  Vikas Tadepu, Thanuj Kumar Janugani, Varun Raj Badri, Jatin Lingala <br>
+
+## Contributions 
+
+
+### Vikas Tadepu
+
+### Thanuj Kumar Janugani
+
+### Varun Raj Badri
+
+### Jatin Lingala
+
+
+
+## XP Core Values
+
+- **_Communication_** : We conducted meetings every week in-person to discuss crucial aspects of the project by collaborating and communicating with each other.
+- **_Feedback_** : Team members delivered software frequently, got feedback about it, and refractored the code to make improvements for working code and fix bugs.
+
+<b>How the team kept the core value? </b>
+- Team meetings were held during which diagrams were created to depict the structure of the tables in the back-end. <br>
+- Mock-ups of how the front-end will look like on Figma. <br>
+- Every Standup contains a discussion of the work completed, the obstacles encountered, and any deviations from the diagrams and mockups in the implementation.
+
+## TECH STACK USED:
+
+- Frontend: ReactJS
+- Backend: Java SpringBoot
+- Database: RDS MySQL
+- REST API: Postman(Testing APIs)
+- Cloud: AWS EC2
+
+## TASKS COMPLETED:
+
+- ### Backend ###
+  - 
+- ### Frontend ###
+  
+
+## UI Wireframes:
+
+
+
+
+
+
+## Component Diagram:
+
+
+
+## Architecture Diagram:
+
+
+
+## Design Decisions:
+
+## Feature Set:
+
+-
+
+
+# Scrum Meeting Notes
+
+## Schedule for Scrum Meetings:
+ - Monday
+ 
+
+## Week 1:
+- ### Sept ### 
+  -
+- ### Sept ### 
+  - 
+
+## Week 2:
+
+- ### Oct ### 
+  - 
+- ### Oct ### 
+  - 
+
+## Week 3:
+
+- ### Oct ### 
+  - 
+- ### Oct ### 
+  - 
+
+## Week 4:
+
+- ### Oct ### 
+  - 
+- ### Oct ### 
+  -
+
+## Week 5:
+
+- ### Nov ### 
+  - 
+- ### Nov ### 
+  - 
+
+## Week 6:
+
+- ### Nov 10 ### 
+  - 
+- ### Nov 23 ### 
+  - 
+
+
+
